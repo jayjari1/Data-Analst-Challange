@@ -1,7 +1,7 @@
 # Data Analyst Project (Domain : Bank)
 
 ## Situation :
-The bank call Mitron who want to launch new credit card with new feature , so they hire data analyst who's job is to identify key segmnet from the given dataset of customers and give feature suggestion regarding this insights
+The bank call Mitron who want to launch new credit card with new feature , so they hire data analyst who's job is to identify key segmnet from the given dataset related customer's  demographiy, income, spending and give feature suggestion regarding this insights
 
 ## Task :
 1. Identify key segment analyzing the data (Age groups, Gender, City, Occupation)
